@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://hblanchard.me/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/post/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/about/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/en/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/post/matos-2021/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/tags/mx-master-3/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/tags/macbook-pro/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/tags/airpods-pro/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/tags/iphone-12/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/tags/vuejs/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/tags/laravel/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/tags/fullstack/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/tags/alternance/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/en/post/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/en/about/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hblanchard.me/en/post/bienvenue/</loc>
+  <lastmod>2021-09-23T21:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
