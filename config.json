@@ -1,0 +1,123 @@
+{
+  "baseURL": "https://hblanchard.me/",
+  "enableEmoji": true,
+  "enableRobotsTXT": true,
+  "languageCode": "fr",
+  "DefaultContentLanguage": "fr",
+  "pygmentsCodeFences": true,
+  "pygmentsCodefencesGuessSyntax": true,
+  "pygmentsUseClasses": true,
+  "summarylength": 10,
+  "theme": "anatole",
+  "title": "Hugo Blanchard - Blog",
+  "disableLanguages": ["en"],
+  "languages": {
+    "fr": {
+      "languageName": "\uD83C\uDDEB\uD83C\uDDF7",
+      "weight": 1,
+      "params": {
+        "title": "Hugo Blanchard",
+        "description": "Développeur web fullstack <br> Étudiant en ingénierie informatique",
+        "listDateFormat" : "2 Jan",
+        "mainSections" : ["posts"]
+      },
+      "menu": {
+        "main": [
+          {
+            "identifier": "home",
+            "name": "Accueil",
+            "url": "/",
+            "weight": 100
+          },
+          {
+            "identifier": "posts",
+            "name": "Articles",
+            "url": "/posts/",
+            "weight": 200
+          },{
+            "identifier": "notes",
+            "name": "Penses-bêtes",
+            "url": "/notes/",
+            "weight": 200
+          },
+          {
+            "identifier": "about",
+            "name": "À propos",
+            "url": "/about/",
+            "weight": 300
+          }
+        ]
+      }
+    },
+    "en": {
+      "languageName": "\uD83C\uDDEC\uD83C\uDDE7",
+      "weight": 2,
+      "params": {
+        "title": "Hugo Blanchard",
+        "description": "Fullstack web developer <br> Student in I.T. Engeneering",
+
+        "singledateformat": "Jan 2, 2006",
+        "indexDateFormat" : "Mon, Jan 2, 2006",
+        "listDateFormat" : "Jan 2"
+      },
+      "menu": {
+        "main": [
+          {
+            "identifier": "home",
+            "name": "Home",
+            "url": "/en",
+            "weight": 100
+          },
+          {
+            "identifier": "posts",
+            "name": "Posts",
+            "url": "/en/posts/",
+            "weight": 200
+          },
+          {
+            "identifier": "about",
+            "name": "About me",
+            "url": "/en/about/",
+            "weight": 300
+          }
+        ]
+      }
+    }
+  },
+
+  "params": {
+    "author": "Hugo Blanchard",
+    "contentratio" : 0.7,
+    "profilePicture": "images/profile.jpg",
+    "gtagId":"G-27PKPDFWY4",
+    "socialIcons": [
+      {
+        "icon": "fab fa-twitter",
+        "title": "Twitter",
+        "url": "https://twitter.com/hblanchard_pro"
+      }, {
+        "icon": "fab fa-linkedin",
+        "title": "LinkedIn",
+        "url": "https://linkedin.com/in/hugo-b-ba7872138/"
+      },{
+        "icon": "fab fa-github",
+        "title": "GitHub",
+        "url": "https://github.com/zaturgo/"
+      },
+      {
+        "icon": "fab fa-gitlab",
+        "title": "GitLab",
+        "url": "https://gitlab.com/zaturgo"
+      },{
+        "icon": "fas fa-rss",
+        "title": "Flux RSS",
+        "url": "http://hblanchard.me/posts/index.xml"
+      },
+      {
+        "icon": "fas fa-envelope",
+        "title": "e-mail",
+        "url": "mailto:blanchard.hugo.pro@gmail.com"
+      }
+    ]
+  }
+}
